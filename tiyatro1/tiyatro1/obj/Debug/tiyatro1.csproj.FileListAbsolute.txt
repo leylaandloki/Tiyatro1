@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\bin\Debug\tiyatro1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\bin\Debug\tiyatro1.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\bin\Debug\tiyatro1.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla\tiyatro1\tiyatro1\obj\Debug\tiyatro1.pdb
